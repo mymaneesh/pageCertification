@@ -1,7 +1,7 @@
 {
 	"network_hierarchy": {
 		"label": "Network Hierarchy",
-		"description": "Good all",
+		"description": "All Good",
 		"status": "verified"
 	},
 
@@ -13,7 +13,7 @@
 
 	"deviceCredentials": {
 		"label": "Device Credentials",
-		"description": "Some eror",
+		"description": "Some warning",
 		"status": "warning"
 	}
 	
