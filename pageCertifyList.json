@@ -1,4 +1,4 @@
-{
+module.exports = {
 	"network_hierarchy": {
 		"label": "Network Hierarchy",
 		"description": "Good all",
