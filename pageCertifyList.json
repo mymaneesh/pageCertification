@@ -15,6 +15,12 @@
 		"label": "Device Credentials",
 		"description": "Some warning",
 		"status": "warning"
+	},
+    
+     "sppSettings": {
+		"label": "SP Profiles",
+		"description": "verified msg",
+		"status": "verified"
 	}
     
 }
