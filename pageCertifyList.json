@@ -11,10 +11,10 @@
 		"status": "error"
 	},
 
-	"networkprofiles": {
+	"deviceCredentials": {
 		"label": "Device Credentials",
 		"description": "Some warning",
-		"status": "fix"
+		"status": "warning"
 	}
     
 }
