@@ -1,25 +1,25 @@
 {
 	"network_hierarchy": {
-		"label": "Network Hierarchy",
-		"description": "All Good",
+		//Network Hierarchy
+		"timestamp": "Last certified: 05/27/17",
 		"status": "verified"
 	},
 
 	"network_settings": {
-		"label": "Network Settings",
-		"description": "Some eror",
+		//Network Settings
+		"timestamp": "Last certified: 05/27/17",
 		"status": "error"
 	},
 
 	"deviceCredentials": {
-		"label": "Device Credentials",
-		"description": "Some warning",
+		//Device Credentials
+		"description": "Last certified: 05/27/17",
 		"status": "warning"
 	},
     
      "sppSettings": {
-		"label": "SP Profiles",
-		"description": "verified msg",
+		//SP Profiles",
+		"timestamp": "Last certified: 05/27/17",
 		"status": "verified"
 	}
     
