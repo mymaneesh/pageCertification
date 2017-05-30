@@ -13,12 +13,12 @@
 
 	"deviceCredentials": {
 		//Device Credentials
-		"description": "Last certified: 05/27/17",
+		"timestamp": "Last certified: 05/27/17",
 		"status": "warning"
 	},
     
      "sppSettings": {
-		//SP Profiles",
+		//SP Profiles"
 		"timestamp": "Last certified: 05/27/17",
 		"status": "verified"
 	}
