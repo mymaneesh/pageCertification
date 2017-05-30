@@ -1,18 +1,18 @@
 {
 	"network_hierarchy": {
-		"label": "Network Hierarchy",
+		"_label_": "Network Hierarchy",
 		"timestamp": "Last Verified on: 05/29/17",
 		"status": "verified"
 	},
 
 	"network_settings": {
-		"label": "Network Settings",
+		"_label_": "Network Settings",
 		"timestamp": "Last Verified on: 05/29/17",
 		"status": "error"
 	},
 
 	"deviceCredentials": {
-		"label": "Device Credentials",
+		"_label_": "Device Credentials",
 		"timestamp": "Last Verified on: 05/29/17",
 		"status": "warning"
 	}
